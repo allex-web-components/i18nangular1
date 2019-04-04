@@ -1,0 +1,26 @@
+{
+  "name": "allex_i18nangular1webcomponent",
+  "version": "1.0.0",
+  "description": "AllexJS Web Component for introducing i18n angular1 functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/i18nangular1.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "i18n",
+    "angular1",
+    "web",
+    "component"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/i18nangular1/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/i18nangular1#readme"
+}
